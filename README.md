@@ -2,6 +2,9 @@
 
 This project simulates an ultrasonic distance measurement system using Arduino Uno and the HC-SR04 ultrasonic sensor in **TinkerCAD**.
 
+<img width="1536" height="656" alt="Bodacious Curcan-Blorr" src="https://github.com/user-attachments/assets/56420293-e99d-413b-9bb1-a48e45169933" />
+
+
 ## 📌 Components
 - Arduino Uno R3
 - HC-SR04 Ultrasonic Sensor
